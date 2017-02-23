@@ -54,6 +54,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 gem 'bcrypt-ruby', '3.1.5', :require => 'bcrypt'
-gem 'activeadmin'
-gem 'sass-rails'
-gem "meta_search",  '>= 1.1.0.pre'
+
